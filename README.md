@@ -1,7 +1,7 @@
-<!--                                                        # House-Prediction-Feature-engineering
+                                                   # House-Prediction-Feature-engineering
                                                                   
  Insits of dataset:-
-        # Here's a brief version of what you'll find in the data description file.
+ # Here's a brief version of what you'll find in the data description file.
 
 <!-- #SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 # MSSubClass: The building class
