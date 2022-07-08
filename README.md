@@ -74,6 +74,6 @@ Insits of dataset:-
     Fence: Fence quality
     MiscFeature: Miscellaneous feature not covered in other categories
     MoSold: Month Sold
-   SaleType: Type of sale
-   SaleCondition: Condition of sale
+    SaleType: Type of sale
+    SaleCondition: Condition of sale
                   
