@@ -1,11 +1,11 @@
-                                                       # House-Prediction-Feature-engineering
+<!--                                                        # House-Prediction-Feature-engineering
                                                                   
  Insits of dataset:-
         # Here's a brief version of what you'll find in the data description file.
 
- SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
-<!-- # MSSubClass: The building class
- # MSZoning: The general zoning classification
+<!-- #SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+# MSSubClass: The building class
+# MSZoning: The general zoning classification
 # LotFrontage: Linear feet of street connected to property
 # LotArea: Lot size in square feet
 # Street: Type of road access
@@ -20,7 +20,7 @@
 # Condition2: Proximity to main road or railroad (if a second is present)
 # BldgType: Type of dwelling
 # HouseStyle: Style of dwelling
-# OverallQual: Overall material and finish quality
+# OverallQual: Overall material and finish quality 
 # OverallCond: Overall condition rating
 # YearBuilt: Original construction date
 # YearRemodAdd: Remodel date
@@ -84,4 +84,5 @@
 # SaleType: Type of sale
 # SaleCondition: Condition of sale
                    
+ -->
  -->
